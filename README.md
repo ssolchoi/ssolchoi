@@ -21,9 +21,6 @@
     
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:row;">
-    <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
-    <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
-    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"> 
-    <br>
-</div><br>
-</div>
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)
+![GStreamer](https://img.shields.io/badge/-GStreamer-ED8B00?logo=gstreamer&logoColor=white)
