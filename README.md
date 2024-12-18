@@ -33,6 +33,7 @@
 
 ## 🔧 Skills
 <div align="center">
+  <!-- 첫 번째 줄 -->
   <img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/-C++-00599C?logo=C%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
@@ -40,6 +41,8 @@
   <img src="https://img.shields.io/badge/-GStreamer-ED8B00?logo=gstreamer&logoColor=white" />
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/-ROS-22314E?logo=ros&logoColor=white" />
+  
+  <!-- 두 번째 줄 -->
   <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/-PCL-00599C?logoColor=white" />
   <img src="https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white" />
@@ -48,6 +51,7 @@
   <img src="https://img.shields.io/badge/-LS--DYNA-002147?logoColor=white" />
   <img src="https://img.shields.io/badge/-ABAQUS-005DAA?logoColor=white" />
 </div>
+
 
 
 ---
