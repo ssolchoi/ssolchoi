@@ -6,7 +6,7 @@
   <h3>👋 Hi, I'm SSol! 👋</h3>
   <p>
     <strong>📌 영상 개선/복원 및 센서 융합 그리고 AI </strong><br />
-    GStreamer와 OpenCV를 활용한 컴퓨터 비전 <br />
+    이미지를 주로 다루는 컴퓨터 비전 개발자🔧 <br />
     Camera-LiDAR-IMU 융합, 최적화, 그리고 센서 데이터를 통한 다양한 문제 해결을 탐구
   </p>
   <a href="mailto:your_email@example.com">
