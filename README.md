@@ -37,6 +37,7 @@
   <img src="https://img.shields.io/badge/-C++-00599C?logo=C%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GStreamer-ED8B00?logo=gstreamer&logoColor=white" />
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/-ROS-22314E?logo=ros&logoColor=white" />
   <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white" />
