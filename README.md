@@ -43,7 +43,7 @@
   <img src="https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white" />
   <img src="https://img.shields.io/badge/-CATIA-005386?logoColor=white" />
   <img src="https://img.shields.io/badge/-Hypermesh-ED8B00?logoColor=white" />
-  <img src="https://img.shields.io/badge/-LS-DYNA-002147?logoColor=white" />
+  <img src="https://img.shields.io/badge/-LS--DYNA-002147?logoColor=white" />
   <img src="https://img.shields.io/badge/-ABAQUS-005DAA?logoColor=white" />
 </div>
 
