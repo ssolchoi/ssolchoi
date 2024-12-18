@@ -3,11 +3,11 @@
 </div>
 
 <div align="center">
-  <h3>👋 안녕하세요! 저는 최진솔입니다! 👋</h3>
+  <h3>👋 Hi, I'm SSol! 👋</h3>
   <p>
-    <strong>📌 AI 및 센서 융합 연구자</strong><br />
-    GStreamer와 OpenCV를 활용한 컴퓨터 비전 전문가입니다. <br />
-    LiDAR-IMU 융합, 최적화, 그리고 센서 데이터를 통한 다양한 문제 해결을 탐구하고 있습니다.
+    <strong>📌 영상 개선/복원 및 센서 융합 그리고 AI </strong><br />
+    + GStreamer와 OpenCV를 활용한 컴퓨터 비전 <br />
+    + Camera-LiDAR-IMU 융합, 최적화, 그리고 센서 데이터를 통한 다양한 문제 해결을 탐구
   </p>
   <a href="mailto:your_email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
