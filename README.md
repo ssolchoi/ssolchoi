@@ -72,4 +72,4 @@
 
 ---
 
-<img src="https://github.com/ssolchoi/ssolchoi/blob/output/github-snake.svg" width="100%">
+<img src="https://github.com/ssolchoi/ssolchoi/blob/output/dist/github-snake.svg">
