@@ -1,26 +1,72 @@
-<div align="left">
-  
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20SSol's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Welcome!&fontSize=70&animation=fadeIn" alt="header" />
+</div>
+
+<div align="center">
+  <h3>👋 안녕하세요! 저는 최진솔입니다! 👋</h3>
+  <p>
+    <strong>📌 AI 및 센서 융합 연구자</strong><br />
+    GStreamer와 OpenCV를 활용한 컴퓨터 비전 전문가입니다. <br />
+    LiDAR-IMU 융합, 최적화, 그리고 센서 데이터를 통한 다양한 문제 해결을 탐구하고 있습니다.
+  </p>
+  <a href="mailto:your_email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://your-portfolio-link.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/yourlinkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
 ---
-  
-[![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiholee0&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/jiholee0)
 
-[![SSol's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiholee0&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/jiholee0/github-readme-stats)
- 
+## 🌟 About Me
 
- 
-## 📞 Contact 📞
-<div style="display:flex; flex-direction:row;">
-    <a href="https://www.instagram.com/6_o777/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
-    </a>
-    <a href="mailto:sol.w3w@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
-</div><br>
-    
-## 🔨 Once I've used 🔨
-<div style="display:flex; flex-direction:row;">
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)
-![GStreamer](https://img.shields.io/badge/-GStreamer-ED8B00?logo=gstreamer&logoColor=white)
+- 🔭 **현재 연구 분야**: 센서 데이터 융합, LiDAR-IMU 정렬, 최적화 알고리즘 개발
+- 🌱 **최근 학습 중**: GStreamer를 활용한 실시간 비디오 처리 및 분석
+- ⚡ **관심사**: 컴퓨터 비전, 인공지능, 자율주행 센서 데이터 분석
+- 🎯 **목표**: 센서 데이터를 활용한 실시간 환경 이해 기술 개발
+
+---
+
+## 🔧 Skills
+
+<div align="center">
+  <img src="https://img.shields.io/badge/-C++-00599C?logo=C%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GStreamer-ED8B00?logo=gstreamer&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ROS2-22314E?logo=ros&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
+</div>
+
+---
+
+## 🛠 Projects
+
+### 📌 **LiDAR-IMU 융합을 통한 실시간 위치 보정**
+- **설명**: LiDAR와 IMU 데이터를 통합하여 외부 환경에서의 정밀 위치 추적을 구현.
+- **사용 기술**: C++, ROS2, PCL (Point Cloud Library)
+- [🔗 리포지토리 보기](https://github.com/your-repository-link)
+
+### 📌 **GStreamer를 활용한 실시간 비디오 분석**
+- **설명**: GStreamer를 사용하여 대용량 비디오 데이터를 실시간으로 처리 및 분석.
+- **사용 기술**: GStreamer, OpenCV, Python
+- [🔗 리포지토리 보기](https://github.com/your-repository-link)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=choijinsol&show_icons=true&theme=radical" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=choijinsol&layout=compact&theme=radical" height="150px" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer" />
+</div>
